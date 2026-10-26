@@ -1,0 +1,12 @@
+.env
+**/.env
+**/vendor/
+**/node_modules/
+**/writable/cache/*
+**/writable/logs/*
+**/writable/session/*
+**/writable/debugbar/*
+*.hprof
+java_pid*.hprof
+/database-backup*.sql
+**/database-backup*.sql
